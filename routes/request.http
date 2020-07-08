@@ -1,0 +1,10 @@
+POST  http://localhost:3000/api/users
+content-type : application/json
+
+{
+  "pseudo": "Joe Joe",
+  "description": "Hello I'm anwsome",
+  "image": "https://i.huffpost.com/gen/2692554/images/o-CUTE-KITTENS-facebook.jpg",
+  "city": "New York",
+  "sexe":0
+}
